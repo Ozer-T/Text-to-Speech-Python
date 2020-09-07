@@ -15,7 +15,6 @@ class Speaking:
         
         if (Speaking.__instance_count == 1):
             raise ValueError('One instance of the class is already exists!')
-            return None
         try:
             
             #Speech speed is given (Default = 200)
