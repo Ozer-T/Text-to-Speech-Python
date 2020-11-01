@@ -1,4 +1,4 @@
-# Text-to-Speech-Python [![HitCount](http://hits.dwyl.com/ozert/Text-to-Speech-Python.svg)](http://hits.dwyl.com/ozert/Text-to-Speech-Python)
+# Text-to-Speech-Python ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fozert%2FText-to-Speech-Python)
 Text to speech class for ease of use in Python3 
 
 
